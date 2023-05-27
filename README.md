@@ -1,6 +1,11 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ask-t&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask-t&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-t&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ask-t&theme=onedark&show_icons=ture" />
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ask-t&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 
 **ask-t/ask-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
