@@ -7,7 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ask-t&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ask_t)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/user/24a83773-d3a5-4d76-91fd-8e0dedd9ed36.svg)](https://wakatime.com/@24a83773-d3a5-4d76-91fd-8e0dedd9ed36)
+
+<a href="https://wakatime.com/@24a83773-d3a5-4d76-91fd-8e0dedd9ed36"><img src="https://wakatime.com/badge/user/24a83773-d3a5-4d76-91fd-8e0dedd9ed36.svg" alt="Total time coded since May 26 2023" /></a>
 
 
 
