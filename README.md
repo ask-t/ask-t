@@ -5,7 +5,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ask-t&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ask-t)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ask_t)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
