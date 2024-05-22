@@ -1,4 +1,9 @@
+# Hello I am ask-t
 
+- 🔭 I’m currently working on some projects using asp.net, next.js nest.js python flask
+- 🌱 I’m currently learning  next.js nest.js
+
+<img alt="dino.gif" src="dino.gif" />
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-t&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ask-t&rank_icon=github&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
